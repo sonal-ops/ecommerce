@@ -1,0 +1,10 @@
+.login{
+    font-size: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.log{
+    background-color: rebeccapurple;
+    height: 60px;
+    width: 100px;
+    border: 1px solid #000;
+}
